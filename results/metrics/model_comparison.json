@@ -1,0 +1,24 @@
+[
+    {
+        "Architecture": "CNN Baseline (Référence)",
+        "Paramètres Totaux": 421642,
+        "Train Accuracy (%)": 95.71764469146729,
+        "Val Accuracy (%)": 92.76666641235352,
+        "Test Accuracy (%)": 91.25000238418579,
+        "Test Loss": 0.2420656681060791,
+        "Macro F1-Score": 0.9127605052491292,
+        "Weighted F1-Score": 0.9127605052491292,
+        "Temps Entraînement (s)": 55.56860661506653
+    },
+    {
+        "Architecture": "CNN Amélioré (BatchNorm + GAP)",
+        "Paramètres Totaux": 158442,
+        "Train Accuracy (%)": 94.75098252296448,
+        "Val Accuracy (%)": 94.32222247123718,
+        "Test Accuracy (%)": 93.26000213623047,
+        "Test Loss": 0.19779708981513977,
+        "Macro F1-Score": 0.9326910290737158,
+        "Weighted F1-Score": 0.9326910290737159,
+        "Temps Entraînement (s)": 183.60534024238586
+    }
+]

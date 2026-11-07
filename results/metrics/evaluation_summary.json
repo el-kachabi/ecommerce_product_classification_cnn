@@ -1,0 +1,13 @@
+{
+    "model_name": "CNN_Ameliore",
+    "dataset": "Fashion-MNIST",
+    "test_samples": 10000,
+    "accuracy": 0.9326,
+    "precision_macro": 0.9331643791335772,
+    "recall_macro": 0.9325999999999999,
+    "f1_macro": 0.9326910290737158,
+    "precision_weighted": 0.9331643791335771,
+    "recall_weighted": 0.9326,
+    "f1_weighted": 0.9326910290737159,
+    "num_parameters": 158442
+}
