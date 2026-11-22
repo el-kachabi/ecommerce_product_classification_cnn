@@ -1,1 +1,1 @@
-"""Source package for ecommerce_product_classification_cnn."""
+"""Package principal simplifié pour la classification e-commerce par CNN."""
